@@ -1,0 +1,11 @@
+{
+  "name": "express-gateway-time",
+  "version": "0.0.1",
+  "description": "Plugin to log response time",
+  "main": "manifest.js",
+  "author": "malys",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {
+  }
+}
